@@ -1,2 +1,2 @@
 # react
-Namaste
+Learning Namaste React by Akshay Saini
